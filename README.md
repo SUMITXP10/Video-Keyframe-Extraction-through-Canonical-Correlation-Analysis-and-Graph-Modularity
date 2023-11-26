@@ -1,0 +1,2 @@
+# Video-Keyframe-Extraction-through-Canonical-Correlation-Analysis-and-Graph-Modularity
+Video Key Frame Extraction through 3 proposed algorithms to compare F1-measure in video summarization technique through : Test Results 01 : Canonical Correlation Analysis &amp; Graph Modularity , Test Results 02 : Canonical Correlation Analysis &amp; Louvain graph modularity , Test Results 03 :  Canonical Correlation Analysis &amp; Leiden graph modularity
